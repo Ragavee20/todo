@@ -1,5 +1,4 @@
 
-
 export const addTodo = (text) => {
     return{
         type: 'Add',
